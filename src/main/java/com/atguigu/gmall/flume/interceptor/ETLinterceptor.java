@@ -17,7 +17,7 @@ import java.util.List;
 public class ETLinterceptor implements Interceptor {
     @Override
     public void initialize() {
-
+        asdasd
     }
 
     //校验json格式是否完整
